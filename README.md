@@ -10,7 +10,7 @@ No se espera que arregles todo. Interesa tu criterio de priorización tanto como
 
 1. Clona este repositorio y crea tu propia rama: `candidato/tu-nombre`.
 2. Corre ambos proyectos localmente (`npm install` en cada carpeta — ver detalles abajo).
-3. **Diagnostica en voz alta** (si estás en sesión en vivo) o por escrito (si es asíncrono) qué está mal o es riesgoso en cada proyecto, y **prioriza** qué arreglarías primero y por qué.
+3. **Diagnostica en voz alta** qué está mal o es riesgoso en cada proyecto, y **prioriza** qué arreglarías primero y por qué.
 4. Arregla lo que el tiempo te permita, respetando las convenciones que ya existen en el código (no reescribas todo desde cero).
 5. Documenta en `TICKET.md` (en la raíz del repo) lo que no alcanzaste: contexto, riesgo, y tu propuesta de solución.
 6. Haz commit y **push a tu rama** (`git push origin candidato/tu-nombre`). No se espera que hagas Pull Request — con el push a tu rama es suficiente para que el equipo revise el diff.
